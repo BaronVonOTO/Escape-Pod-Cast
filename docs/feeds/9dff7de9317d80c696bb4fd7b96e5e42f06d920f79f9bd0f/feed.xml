@@ -9,5 +9,5 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <itunes:type>episodic</itunes:type>
-  </channel>
+  <item><title>Find Inner Calm (1111 Hz) | 2 hours handpan music | Malte Marten</title><guid isPermaLink="false">escape-pod-cast:asset-626076772</guid><pubDate>Fri, 09 Oct 2026 20:18:06 +0000</pubDate><description>Added from your Mac.</description><enclosure url="https://github.com/BaronVonOTO/Escape-Pod-Cast/releases/download/audio/epc-45f6bb4490a5887f212767c587b947af876447e23b77ea8221b7c5ad452c7ef6.m4a" length="120846635" type="audio/mp4" /><itunes:explicit>false</itunes:explicit></item></channel>
 </rss>
